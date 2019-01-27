@@ -1,0 +1,12 @@
+.block1 {
+  background-image: url("../images/2.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 150px;
+  height: 200px;
+  display: flex;
+}
+
+body {
+  background-color: blue;
+}
